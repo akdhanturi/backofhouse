@@ -1,0 +1,104 @@
+
+newmtl elevMain
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  150.0
+illum 2
+map_Kd elevMain_Albedo.tga
+map_Bump elevMain_Normal.tga
+
+
+
+
+newmtl elevDetails
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  150.0
+illum 2
+map_Kd elevDetails_Albedo.tga
+map_Bump elevDetails_Normal.tga
+
+
+
+
+newmtl elevDoors
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  150.0
+illum 2
+map_Kd elevDoors_Albedo.tga
+map_Bump elevDoors_Normal.tga
+
+
+
+
+newmtl elevLEDPanel
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  150.0
+illum 2
+map_Kd elevLEDPanel_Albedo.tga
+map_Bump elevLEDPanel_Normal.tga
+
+
+
+
+newmtl elevBtnLight
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  150.0
+illum 2
+map_Kd elevBtnLight_Albedo.tga
+map_Bump elevBtnLight_Normal.tga
+
+
+
+
+newmtl elevBtn
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  150.0
+illum 2
+map_Kd elevBtn_Albedo.tga
+map_Bump elevBtn_Normal.tga
+
+
+
+
+newmtl elevPotLight
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  150.0
+illum 2
+map_Kd elevPotLight_Albedo.tga
+map_Bump elevPotLight_Normal.tga
+
+
+
+
+newmtl elevHallFrame
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  150.0
+illum 2
+map_Kd elevHallFrame_Albedo.tga
+map_Bump elevHallFrame_Normal.tga
+
+
+

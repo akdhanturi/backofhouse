@@ -1,0 +1,62 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.10.2017 04:35:33
+
+newmtl LR_Final001
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\Cad\plastic-chair-2.snapshot.5\end1\LR_Final001_albedo.jpg
+	map_Kd E:\Cad\plastic-chair-2.snapshot.5\end1\LR_Final001_albedo.jpg
+	map_Ks E:\Cad\plastic-chair-2.snapshot.5\end1\LR_Final001_specular.jpg
+
+newmtl LR_Final001_Red
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\Cad\plastic-chair-2.snapshot.5\end1\LR_Final001_RED-albedo.jpg
+	map_Kd E:\Cad\plastic-chair-2.snapshot.5\end1\LR_Final001_RED-albedo.jpg
+	map_Ks E:\Cad\plastic-chair-2.snapshot.5\end1\LR_Final001_specular.jpg
+
+newmtl LR_Final001_Blue
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\Cad\plastic-chair-2.snapshot.5\end1\LR_Final001_Blue-albedo.jpg
+	map_Kd E:\Cad\plastic-chair-2.snapshot.5\end1\LR_Final001_Blue-albedo.jpg
+	map_Ks E:\Cad\plastic-chair-2.snapshot.5\end1\LR_Final001_specular.jpg
+
+newmtl LR_Final001_White
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka E:\Cad\plastic-chair-2.snapshot.5\end1\LR_Final001_White-albedo.jpg
+	map_Kd E:\Cad\plastic-chair-2.snapshot.5\end1\LR_Final001_White-albedo.jpg
+	map_Ks E:\Cad\plastic-chair-2.snapshot.5\end1\LR_Final001_specular.jpg
